@@ -10,7 +10,7 @@ function Header() {
       </div>
       <img
         className='hero-img'
-        src='https://images.pexels.com/photos/5686514/pexels-photo-5686514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+        src='https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'
         alt='img-1'
       />
     </div>

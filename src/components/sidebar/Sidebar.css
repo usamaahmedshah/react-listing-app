@@ -1,7 +1,7 @@
 .sidebar-section {
   flex: 3;
   margin: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 32px;
   background-color: rgb(247, 243, 239);
   border-radius: 12px;
   display: flex;

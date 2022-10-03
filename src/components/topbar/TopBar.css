@@ -23,8 +23,8 @@
 }
 
 .topbar-profile-pic {
-  width: 45px;
-  height: 45px;
+  width: 42px;
+  height: 42px;
   border-radius: 50%;
   object-fit: cover;
 }
@@ -49,6 +49,7 @@
   margin-right: 22px;
   font-size: 20px;
   cursor: pointer;
+  color: var(--primary-color);
 }
 
 .topbar-search {

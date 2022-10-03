@@ -1,7 +1,7 @@
 import React from 'react';
 import Sidebar from '../../components/sidebar/Sidebar';
 import './Detail.css';
-import ListingDetail from './ListingDetail';
+import ListingDetail from '../../components/listing-detail/ListingDetail';
 
 function Detail() {
   return (
